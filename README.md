@@ -13,7 +13,7 @@ What are the steps required to install your project? Provide a step-by-step desc
 
 Provide instructions and examples for use. Include screenshots as needed.
    
-   ![URL screenshot](assets/images/digital-marketing-meeting.png)
+   ![URL screenshot](assets/images/digital-marketing-meeting.jpg)
   
 
 ## Credits
