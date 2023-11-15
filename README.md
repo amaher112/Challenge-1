@@ -9,7 +9,9 @@ This project allowed me to explore HTML and CSS selectors more in depth. I was r
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+Here is the live link:
+
+https://amaher112.github.io/Challenge-1/
    
    ![URL screenshot](assets/images/Screenshot-1.png)
   
